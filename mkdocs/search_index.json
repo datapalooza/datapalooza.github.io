@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": ".steps-title { float: left; width: 25%; margin-bottom: 20px; }\n.steps-title > p { font-weight: bold; font-size: 150%; }\n.steps-content { float: left; width: 74%; margin-bottom: 20px; }\n.clear { clear: both; }\n.center { text-align: center; }\n.social { text-align: center; }\n\n\n\n\n\n\nHack The Weather Hackathon:\n September 18th in San Francisco!\n\n\n\n\n\nRSVP\n\n\n\n\n\n\n\n\nWelcome to Hack The Weather!\n\n\n\n\n\nGet on Slack\n\n\n\n\n\nSubmit this form to request an invitation to this hackathon's Slack team.\n\n\n\n\nFill out my \nonline form\n.\n\n\n\nvar mpmae7502ljznp;(function(d, t) {\nvar s = d.createElement(t), options = {\n'userName':'bigdatamaven',\n'formHash':'mpmae7502ljznp',\n'autoResize':true,\n'height':'400',\n'async':true,\n'host':'wufoo.com',\n'header':'hide',\n'ssl':true};\ns.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';\ns.onload = s.onreadystatechange = function() {\nvar rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;\ntry { mpmae7502ljznp = new WufooForm();mpmae7502ljznp.initialize(options);mpmae7502ljznp.display(); } catch (e) {}};\nvar scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);\n})(document, 'script');\n\n\n\n\n\n\n\n\n\n\n\n\nLearn\n\n\n\n\n\n\n  Take the \nSpark Fundamentals\n\n  course and the\n  \nData Scientist Workbench Tutorial\n\n  on Big Data University.\n\n\n\n\n\n\n\n\n\n\n\n\nGet your Team\n\n\n\n\n\n\n  How are you getting your cut of the \n$5,000\n prize?\n  Who are you flying to \nLas Vegas\n with?\n  Bring your team in!\n\n\n\n\n\nGet your folks to RSVP \nhere\n.\n\n\nRegister your Team\n.\n\n\n\n\n\n\n\n\n\n\n\n\n\nRun Spark\n\n\n\n\n\nRegister for a \nData Scientist Workbench\n account.\n\n\n\n\n\n\n\n\n!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src=\"https://a248.e.akamai.net/secure.meetupstatic.com/s/script/541522619002077648/api/mu.btns.js?id=mvfenm6n7h0drdcc0ahv7nm2v3\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"mu-bootjs\");", 
+            "text": ".steps-title { float: left; width: 25%; margin-bottom: 20px; }\n.steps-title > p { font-weight: bold; font-size: 150%; }\n.steps-content { float: left; width: 74%; margin-bottom: 20px; }\n.clear { clear: both; }\n.center { text-align: center; }\n.social { text-align: center; }\n\n\n\n\n\n\nDatapalooza:\n November 10th in San Francisco!\n\n\n\n\n\nRSVP\n\n\n\n\n\n\n\n\nWelcome to Datapalooza!\n\n\n\n\n\nGet on Slack\n\n\n\n\n\nSubmit this form to request an invitation to this hackathon's Slack team.\n\n\n\n\nFill out my \nonline form\n.\n\n\n\nvar mpmae7502ljznp;(function(d, t) {\nvar s = d.createElement(t), options = {\n'userName':'bigdatamaven',\n'formHash':'mpmae7502ljznp',\n'autoResize':true,\n'height':'400',\n'async':true,\n'host':'wufoo.com',\n'header':'hide',\n'ssl':true};\ns.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';\ns.onload = s.onreadystatechange = function() {\nvar rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;\ntry { mpmae7502ljznp = new WufooForm();mpmae7502ljznp.initialize(options);mpmae7502ljznp.display(); } catch (e) {}};\nvar scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);\n})(document, 'script');\n\n\n\n\n\n\n\n\n\n\n\n\nLearn\n\n\n\n\n\n\n  Take the \nSpark Fundamentals\n\n  course and the\n  \nData Scientist Workbench Tutorial\n\n  on Big Data University.\n\n\n\n\n\n\n\n\n\n\n\n\nGet your Team\n\n\n\n\n\n\n  How are you getting your cut of the \n$5,000\n prize?\n  Who are you flying to \nLas Vegas\n with?\n  Bring your team in!\n\n\n\n\n\nGet your folks to RSVP \nhere\n.\n\n\nRegister your Team\n.\n\n\n\n\n\n\n\n\n\n\n\n\n\nRun Spark\n\n\n\n\n\nRegister for a \nData Scientist Workbench\n account.\n\n\n\n\n\n\n\n\n!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src=\"https://a248.e.akamai.net/secure.meetupstatic.com/s/script/541522619002077648/api/mu.btns.js?id=mvfenm6n7h0drdcc0ahv7nm2v3\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"mu-bootjs\");", 
             "title": "First Steps"
         }, 
         {
@@ -16,9 +16,44 @@
             "title": "Slack"
         }, 
         {
+            "location": "/introduction/resources/", 
+            "text": "Free courses on \nBig Data University\n:\n\n\n\n\n\n\nSpark Fundamentals\n\n\n\n\n\n\nBig Data Fundamentals\n\n\n\n\n\n\nHadoop Fundamentals I\n\n\n\n\n\n\nMoving Data into Hadoop\n\n\n\n\n\n\nBig Data Analytics - Demos", 
+            "title": "Resources"
+        }, 
+        {
             "location": "/environment/register-team/", 
             "text": "Have you joined Slack yet?\n We hope so! Now you need to register your team.\n\n\nOur dearest \nRosie Jetson\n   will be helping us out in this hackathon!\nRosie will register your team in our \nGitHub organization\n, or add you to the team, in case another team member has already registered it.\n\n\nJust say hello to Rosie!", 
             "title": "Register your Team"
+        }, 
+        {
+            "location": "/environment/dswb/", 
+            "text": "Overview\n\n\nData Scientist Workbench aims to be your one-stop shop for data science tools. At this time, it is a technology preview limited to IPython/Jupyter notebooks enabled with Spark integration. You can use notebooks to develop and run data science projects, as well visualize, document and present your analysis.\n\n\n\n\n\n\n\n\nFor more information, take the \nData Scientist Workbench Tutorial\n on Big Data University.\n\n\nRequesting your own Data Scientist Workbench\n\n\nGo to \nData Scientist Workbench\n and click the big blue button. After completing the registration, you will receive an e-mail with instructions.\n\n\nHello World\n\n\nTo get a feel of how the Data Scientist Notebooks work with Scala and Spark, follow the steps below to load a \"Hello World\" notebook along with its sample data.\n\n\n\n\n\n\n\nGo to \nData Scientist Workbench\n and click the \nMy Notebooks\n menu.\n\n\n\n\nUse the search bar to import the following file and notebook.\n    \n\n    \n\n    \n\n    \n\n\n\n\n\n\nNotebook:\n  \nhttps://share.knowledgeanyhow.org/#/api/v1/workbench/10.114.214.68/shares/sHbSUP0luy1xE2q/Scala%20and%20Spark%20in%2015%20minutes.ipynb\n\n\n\n\n\n\nData:\n\nhttps://share.knowledgeanyhow.org/#/api/v1/workbench/10.114.214.68/shares/t9LwxWg0EkWKMYX/2015.csv\n\n\n\n\n\n\n\n\n\n\nFollow the notebook!\n    \n\n    \n\n    \n\n    \n\n\n\n\n\n\nFor more details on sharing data and notebooks, check \nthis guide\n.", 
+            "title": "Data Scientist Workbench"
+        }, 
+        {
+            "location": "/environment/dswb/#overview", 
+            "text": "Data Scientist Workbench aims to be your one-stop shop for data science tools. At this time, it is a technology preview limited to IPython/Jupyter notebooks enabled with Spark integration. You can use notebooks to develop and run data science projects, as well visualize, document and present your analysis.     For more information, take the  Data Scientist Workbench Tutorial  on Big Data University.", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/environment/dswb/#requesting-your-own-data-scientist-workbench", 
+            "text": "Go to  Data Scientist Workbench  and click the big blue button. After completing the registration, you will receive an e-mail with instructions.", 
+            "title": "Requesting your own Data Scientist Workbench"
+        }, 
+        {
+            "location": "/environment/dswb/#hello-world", 
+            "text": "To get a feel of how the Data Scientist Notebooks work with Scala and Spark, follow the steps below to load a \"Hello World\" notebook along with its sample data.    Go to  Data Scientist Workbench  and click the  My Notebooks  menu.   Use the search bar to import the following file and notebook.\n     \n     \n     \n        Notebook:\n   https://share.knowledgeanyhow.org/#/api/v1/workbench/10.114.214.68/shares/sHbSUP0luy1xE2q/Scala%20and%20Spark%20in%2015%20minutes.ipynb    Data: https://share.knowledgeanyhow.org/#/api/v1/workbench/10.114.214.68/shares/t9LwxWg0EkWKMYX/2015.csv      Follow the notebook!\n     \n     \n     \n        For more details on sharing data and notebooks, check  this guide .", 
+            "title": "Hello World"
+        }, 
+        {
+            "location": "/environment/download-sample-data/", 
+            "text": "We are providing an example data set to get you started, but we encourage you to use use your own. You can download it in the link below.\n\n\nhttp://bit.ly/SFHackData\n\n\nNext, you'll probably want to extract the \nzip\n file and \nupload the \ncsv\n files to your workbench\n.", 
+            "title": "Download Sample Data"
+        }, 
+        {
+            "location": "/howtos/analyzing-weather-data/", 
+            "text": "Go to \nData Scientist Workbench\n and click the \nMy Notebooks\n menu.\n\n\n\n\nUse the search bar to import the following notebooks.\n    \n\n    \n\n    \n\n    \n\n\n\n\n\n\nWeather Data Preparation:\n  \nhttps://share.knowledgeanyhow.org/#/api/v1/workbench/10.114.214.68/shares/L9ftHk00qCVG8qL/Weather%20Data%20Preparation%20v2.ipynb\n\n\n\n\n\n\nWeather Data Analysis and Visualization:\n  \nhttps://share.knowledgeanyhow.org/#/api/v1/workbench/10.114.214.68/shares/9tDhX5RIIQLIKcB/Weather%20Data%20Analysis%20Visualization%20v2.ipynb\n\n\n\n\n\n\n\n\n\n\nYou can get the \nAPI key\n \nhere\n.\n\n\n\n\n\n\nFollow the notebooks!\n    \n\n    \n\n    \n\n    \n\n\n\n\n\n\nFor more details on sharing data and notebooks, check \nthis guide\n.", 
+            "title": "Analyzing Weather Data"
         }, 
         {
             "location": "/howtos/sharing-data-notebooks/", 
@@ -34,6 +69,36 @@
             "location": "/howtos/sharing-data-notebooks/#importing-data-and-notebooks", 
             "text": "Copy the link of the file or notebook you want to import (from step 5 above).  Go to  Data Scientist Workbench  and click the  My Notebooks  menu.   Paste the link in the text field at the top right corner of the page.\n     \n     \n     \n        Hit  Enter  to import the file or notebook.", 
             "title": "Importing Data and Notebooks"
+        }, 
+        {
+            "location": "/howtos/load-data-dsw/", 
+            "text": "To data into your Data Scientist Workbench, all you have to do is:\n\n\n\n\nGo to \nData Scientist Workbench\n and click the \nMy Notebooks\n menu.\n\n\nDrag the files you want to load from your computer and drop them on DSW.\n\n\n\n\nNote:\n There is no upload progress indication. If you're trying to upload a large file, it might take a few minutes for the upload to complete and the file show up in \"Recent Data\".", 
+            "title": "Load Data into DSW"
+        }, 
+        {
+            "location": "/howtos/install-libs/", 
+            "text": "R\n\n\nUse \ninstall.packages()\n in a R notebook, as shown in the example below.\n\n\ninstall.packages(\nyaml\n, repos=\nhttp://cran.stat.ucla.edu\n)\n\n\n\n\nPython\n\n\nOpen a Python notebook and use \npip\n to install Python packages, as shown below.\n\n\n!pip install vincent\n\n\n\n\nScala\n\n\nAdding new JARs is not officially supported at this time.", 
+            "title": "Install Libraries"
+        }, 
+        {
+            "location": "/howtos/install-libs/#r", 
+            "text": "Use  install.packages()  in a R notebook, as shown in the example below.  install.packages( yaml , repos= http://cran.stat.ucla.edu )", 
+            "title": "R"
+        }, 
+        {
+            "location": "/howtos/install-libs/#python", 
+            "text": "Open a Python notebook and use  pip  to install Python packages, as shown below.  !pip install vincent", 
+            "title": "Python"
+        }, 
+        {
+            "location": "/howtos/install-libs/#scala", 
+            "text": "Adding new JARs is not officially supported at this time.", 
+            "title": "Scala"
+        }, 
+        {
+            "location": "/howtos/submit-code/", 
+            "text": "We'll use GitHub\n\n\nEnsure your team is \nregistered\n!\n\n\n\n\n\n\nSet Up Git\n\n\n\n\n\n\nInitialize your team's repository by:\n\n\n\n\n\n\nCreating a new repository:\n\n\n  echo \"# \nREPOSITORY_NAME\n\" \n README.md\n  git init\n  git add README.md\n  git commit -m \"first commit\"\n  git remote add origin git@github.com:hacktheweather/\nREPOSITORY_NAME\n.git\n  git push -u origin master\n\n\n\n\n\n\n\nOr push an existing one:\n\n\n  git remote add origin git@github.com:hacktheweather/\nREPOSITORY_NAME\n.git\n  git push -u origin master\n\n\n\n\n\n\n\n\n\n\n\nDownload your team's notebooks from DSW (\n.ipynb\n) to your machine.\n  \n\n  \n\n  \n\n  \n\n\n\n\n\n\nCommit and push notebooks and sample data to GitHub.", 
+            "title": "Submit your Code"
         }
     ]
 }

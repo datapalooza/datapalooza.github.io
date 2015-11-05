@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Sharing Data and Notebooks - Datapalooza</title>
+  <title>Install Libraries - Datapalooza</title>
   
 
   <link rel="shortcut icon" href="../../img/favicon.ico">
@@ -131,18 +131,8 @@
 
         
             
-    <li class="toctree-l1 current">
-        <a class="current" href="./">Sharing Data and Notebooks</a>
-        
-            <ul>
-            
-                <li class="toctree-l3"><a href="#exporting-data-and-notebooks">Exporting Data and Notebooks</a></li>
-                
-            
-                <li class="toctree-l3"><a href="#importing-data-and-notebooks">Importing Data and Notebooks</a></li>
-                
-            
-            </ul>
+    <li class="toctree-l1 ">
+        <a class="" href="../sharing-data-notebooks/">Sharing Data and Notebooks</a>
         
     </li>
 
@@ -155,8 +145,21 @@
 
         
             
-    <li class="toctree-l1 ">
-        <a class="" href="../install-libs/">Install Libraries</a>
+    <li class="toctree-l1 current">
+        <a class="current" href="./">Install Libraries</a>
+        
+            <ul>
+            
+                <li class="toctree-l3"><a href="#r">R</a></li>
+                
+            
+                <li class="toctree-l3"><a href="#python">Python</a></li>
+                
+            
+                <li class="toctree-l3"><a href="#scala">Scala</a></li>
+                
+            
+            </ul>
         
     </li>
 
@@ -231,38 +234,18 @@
           <div role="main">
             <div class="section">
               
-                <p>Sharing data and notebooks can be very useful for team collaboration.</p>
-<h1 id="exporting-data-and-notebooks">Exporting Data and Notebooks</h1>
-<ol>
-<li>Go to <a href="https://datascientistworkbench.com" target="blank">Data Scientist Workbench</a> and click the <strong>My Notebooks</strong> menu.</li>
-<li>Find the file or notebook you want to share, and click the twistie (<img alt="twistie" src="../../images/twistie.png" />) to the left of it.</li>
-<li>
-<p>Click the <strong>share</strong> button (<img alt="share" src="../../images/share.png" />).
-    <br>
-    <center>
-    <img src="/images/dswb-share.png" width="350"/>
-    </center></p>
-</li>
-<li>
-<p>Click the <strong>Show Link</strong> link to get the link to the shared notebook.</p>
-</li>
-<li>Send this link to the person you're sharing the file or notebook with.</li>
-</ol>
-<h1 id="importing-data-and-notebooks">Importing Data and Notebooks</h1>
-<ol>
-<li>Copy the link of the file or notebook you want to import (from step 5 above).</li>
-<li>Go to <a href="https://datascientistworkbench.com" target="blank">Data Scientist Workbench</a> and click the <strong>My Notebooks</strong> menu.</li>
-<li>
-<p>Paste the link in the text field at the top right corner of the page.
-    <br>
-    <center>
-    <img src="/images/dswb-import.png" width="350"/>
-    </center></p>
-</li>
-<li>
-<p>Hit <strong>Enter</strong> to import the file or notebook.</p>
-</li>
-</ol>
+                <h1 id="r">R</h1>
+<p>Use <code>install.packages()</code> in a R notebook, as shown in the example below.</p>
+<pre><code>install.packages(&quot;yaml&quot;, repos=&quot;http://cran.stat.ucla.edu&quot;)
+</code></pre>
+
+<h1 id="python">Python</h1>
+<p>Open a Python notebook and use <code>pip</code> to install Python packages, as shown below.</p>
+<pre><code>!pip install vincent
+</code></pre>
+
+<h1 id="scala">Scala</h1>
+<p>Adding new JARs is not officially supported at this time.</p>
               
             </div>
           </div>
@@ -270,10 +253,10 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../load-data-dsw/" class="btn btn-neutral float-right" title="Load Data into DSW" accesskey="n">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="../submit-code/" class="btn btn-neutral float-right" title="Submit your Code" accesskey="n">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="../analyzing-weather-data/" class="btn btn-neutral" title="Analyzing Weather Data" accesskey="p"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="../load-data-dsw/" class="btn btn-neutral" title="Load Data into DSW" accesskey="p"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
@@ -343,10 +326,10 @@
           <a class="icon icon-github" style="float: left; color: #fcfcfc"> GitHub</a>
       
       
-        <span><a href="../analyzing-weather-data/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+        <span><a href="../load-data-dsw/" style="color: #fcfcfc;">&laquo; Previous</a></span>
       
       
-        <span style="margin-left: 15px"><a href="../load-data-dsw/" style="color: #fcfcfc">Next &raquo;</a></span>
+        <span style="margin-left: 15px"><a href="../submit-code/" style="color: #fcfcfc">Next &raquo;</a></span>
       
     </span>
 </div>
