@@ -5,25 +5,19 @@
         
     <url>
      <loc>http://datapalooza.github.io/</loc>
-     <lastmod>2015-11-05</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://datapalooza.github.io/introduction/hackathon/</loc>
-     <lastmod>2015-11-05</lastmod>
+     <lastmod>2015-11-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://datapalooza.github.io/introduction/slack/</loc>
-     <lastmod>2015-11-05</lastmod>
+     <lastmod>2015-11-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://datapalooza.github.io/introduction/resources/</loc>
-     <lastmod>2015-11-05</lastmod>
+     <lastmod>2015-11-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -32,20 +26,14 @@
     
         
     <url>
-     <loc>http://datapalooza.github.io/environment/register-team/</loc>
-     <lastmod>2015-11-05</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
      <loc>http://datapalooza.github.io/environment/dswb/</loc>
-     <lastmod>2015-11-05</lastmod>
+     <lastmod>2015-11-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://datapalooza.github.io/environment/download-sample-data/</loc>
-     <lastmod>2015-11-05</lastmod>
+     <lastmod>2015-11-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -55,31 +43,31 @@
         
     <url>
      <loc>http://datapalooza.github.io/howtos/analyzing-weather-data/</loc>
-     <lastmod>2015-11-05</lastmod>
+     <lastmod>2015-11-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://datapalooza.github.io/howtos/sharing-data-notebooks/</loc>
-     <lastmod>2015-11-05</lastmod>
+     <lastmod>2015-11-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://datapalooza.github.io/howtos/load-data-dsw/</loc>
-     <lastmod>2015-11-05</lastmod>
+     <lastmod>2015-11-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://datapalooza.github.io/howtos/install-libs/</loc>
-     <lastmod>2015-11-05</lastmod>
+     <lastmod>2015-11-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://datapalooza.github.io/howtos/submit-code/</loc>
-     <lastmod>2015-11-05</lastmod>
+     <lastmod>2015-11-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
