@@ -27,7 +27,7 @@
         }, 
         {
             "location": "/introduction/slack/", 
-            "text": "Slack\n is an awesome platform for team communication and it's our tool of choice for this hackathon. All the communication will flow through Slack!\n\n\nYou have been sent an invitation for this hackathon's \nSlack team\n. In case you haven't received it, please find an organizer.\n\n\nYou can use Slack from your Web browser, but we \nstrongly recommend\n that you the native apps:\n\n\n\n\nMac OS\n\n\nWindows\n\n\niOS\n\n\nAndroid", 
+            "text": "Slack\n is an\nawesome platform for team communication and it's our tool of\nchoice for this hackathon. All the communication will flow\nthrough Slack!\n\n\nYou have been sent an invitation for this hackathon's\n\nSlack team\n.\nIn case you haven't received it, please find an organizer.\n\n\nYou can use Slack from your Web browser, but we\n\nstrongly recommend\n that you the native apps:\n\n\n\n\nMac OS\n\n\nWindows\n\n\niOS\n\n\nAndroid", 
             "title": "Slack"
         }, 
         {
@@ -37,22 +37,37 @@
         }, 
         {
             "location": "/introduction/sessions/", 
-            "text": "Sessions Materials\n\n\n\n\n\n\n\n\nSession\n\n\nMaterials\n\n\n\n\n\n\n\n\n\n\nCaltrain Rider: A Complete Data Product\n\n\nhttps://github.com/silicon-valley-data-science/\n\n\n\n\n\n\nWhos in the News: Build a Quality web app with minimal code\n\n\nhttps://github.com/AlchemyAPI/whos-in-the-news\n\n\n\n\n\n\nBuilding a Word2Vec Model with Twitter Data\n\n\nhttps://github.com/castanan/w2v\n\n\n\n\n\n\nSpark Streaming application with Twitter and Watson\n\n\nhttps://github.com/ibm-cds-labs/spark.samples/tree/master/streaming-twitter\n\n\n\n\n\n\nMurv Part 1: Introduction to Muvr and lab around wearable and mobile\n\n\nhttps://github.com/muvr\n\n\n\n\n\n\nCustomer Relationship Prediction with Machine Learning Ensembles\n\n\nhttps://github.com/Jay-Oh-eN/data-scientists-guide-apache-spark\n\n\n\n\n\n\nMurv Part 2: Finish Wearable and mobile lab and move into a lab on training a model\n\n\nhttps://github.com/muvr\n\n\n\n\n\n\nMurv Part 3: Final lab on paralleling computation and conclusion\n\n\nhttps://github.com/muvr\n\n\n\n\n\n\nNLP Enriched Product Review\n\n\nhttps://github.com/AlchemyAPI/reviewRecipe\n\n\n\n\n\n\nSearch by Selfie: a Spark Facial Recognition Algorithm\n\n\nhttps://github.com/hackspark/SearchBySelfie/blob/master/photoSearchApp.ipynb", 
+            "text": "Session Materials - Seattle\n\n\nComing soon!\n\n\nSession Materials - San Francisco\n\n\n\n\n\n\n\n\nSession\n\n\nMaterials\n\n\n\n\n\n\n\n\n\n\nCaltrain Rider: A Complete Data Product\n\n\nhttps://github.com/silicon-valley-data-science/\n\n\n\n\n\n\nWhos in the News: Build a Quality web app with minimal code\n\n\nhttps://github.com/AlchemyAPI/whos-in-the-news\n\n\n\n\n\n\nBuilding a Word2Vec Model with Twitter Data\n\n\nhttps://github.com/castanan/w2v\n\n\n\n\n\n\nSpark Streaming application with Twitter and Watson\n\n\nhttps://github.com/ibm-cds-labs/spark.samples/tree/master/streaming-twitter\n\n\n\n\n\n\nMurv Part 1: Introduction to Muvr and lab around wearable and mobile\n\n\nhttps://github.com/muvr\n\n\n\n\n\n\nCustomer Relationship Prediction with Machine Learning Ensembles\n\n\nhttps://github.com/Jay-Oh-eN/data-scientists-guide-apache-spark\n\n\n\n\n\n\nMurv Part 2: Finish Wearable and mobile lab and move into a lab on training a model\n\n\nhttps://github.com/muvr\n\n\n\n\n\n\nMurv Part 3: Final lab on paralleling computation and conclusion\n\n\nhttps://github.com/muvr\n\n\n\n\n\n\nNLP Enriched Product Review\n\n\nhttps://github.com/AlchemyAPI/reviewRecipe\n\n\n\n\n\n\nSearch by Selfie: a Spark Facial Recognition Algorithm\n\n\nhttps://github.com/hackspark/SearchBySelfie/blob/master/photoSearchApp.ipynb", 
             "title": "Sessions"
         }, 
         {
-            "location": "/introduction/sessions/#sessions-materials", 
+            "location": "/introduction/sessions/#session-materials-seattle", 
+            "text": "Coming soon!", 
+            "title": "Session Materials - Seattle"
+        }, 
+        {
+            "location": "/introduction/sessions/#session-materials-san-francisco", 
             "text": "Session  Materials      Caltrain Rider: A Complete Data Product  https://github.com/silicon-valley-data-science/    Whos in the News: Build a Quality web app with minimal code  https://github.com/AlchemyAPI/whos-in-the-news    Building a Word2Vec Model with Twitter Data  https://github.com/castanan/w2v    Spark Streaming application with Twitter and Watson  https://github.com/ibm-cds-labs/spark.samples/tree/master/streaming-twitter    Murv Part 1: Introduction to Muvr and lab around wearable and mobile  https://github.com/muvr    Customer Relationship Prediction with Machine Learning Ensembles  https://github.com/Jay-Oh-eN/data-scientists-guide-apache-spark    Murv Part 2: Finish Wearable and mobile lab and move into a lab on training a model  https://github.com/muvr    Murv Part 3: Final lab on paralleling computation and conclusion  https://github.com/muvr    NLP Enriched Product Review  https://github.com/AlchemyAPI/reviewRecipe    Search by Selfie: a Spark Facial Recognition Algorithm  https://github.com/hackspark/SearchBySelfie/blob/master/photoSearchApp.ipynb", 
-            "title": "Sessions Materials"
+            "title": "Session Materials - San Francisco"
+        }, 
+        {
+            "location": "/challenges/daily-challenges/", 
+            "text": "Daily Challenges - Seattle\n\n\nStay tuned for different challenges each day while you're\nat Datapalooza Seattle. Follow \nthe slack channel\n for\nmore details.", 
+            "title": "Daily Challenges"
+        }, 
+        {
+            "location": "/challenges/daily-challenges/#daily-challenges-seattle", 
+            "text": "Stay tuned for different challenges each day while you're\nat Datapalooza Seattle. Follow  the slack channel  for\nmore details.", 
+            "title": "Daily Challenges - Seattle"
         }, 
         {
             "location": "/environment/dswb/", 
-            "text": "Overview\n\n\nData Scientist Workbench aims to be your one-stop shop for data science tools. At this time, it is a technology preview limited to IPython/Jupyter notebooks enabled with Spark integration. You can use notebooks to develop and run data science projects, as well visualize, document and present your analysis.\n\n\n\n\n\n\n\n\nFor more information, take the \nData Scientist Workbench Tutorial\n on Big Data University.\n\n\nRequesting your own Data Scientist Workbench\n\n\nGo to \nData Scientist Workbench\n and click the big blue button. After completing the registration, you will receive an e-mail with instructions.\n\n\nHello World\n\n\nTo get a feel of how the Data Scientist Notebooks work with Scala and Spark, follow the steps below to load a \"Hello World\" notebook along with its sample data.\n\n\n\n\n\n\n\nGo to \nData Scientist Workbench\n and click the \nMy Notebooks\n menu.\n\n\n\n\nUse the search bar to import the following file and notebook.\n    \n\n    \n\n    \n\n    \n\n\n\n\n\n\nNotebook:\n  \nhttps://share.knowledgeanyhow.org/#/api/v1/workbench/10.114.214.68/shares/sHbSUP0luy1xE2q/Scala%20and%20Spark%20in%2015%20minutes.ipynb\n\n\n\n\n\n\nData:\n\nhttps://share.knowledgeanyhow.org/#/api/v1/workbench/10.114.214.68/shares/t9LwxWg0EkWKMYX/2015.csv\n\n\n\n\n\n\n\n\n\n\nFollow the notebook!\n    \n\n    \n\n    \n\n    \n\n\n\n\n\n\nFor more details on sharing data and notebooks, check \nthis guide\n.", 
+            "text": "Overview\n\n\nData Scientist Workbench aims to be your one-stop shop for\ndata science tools. At this time, it includes Jupyter notebooks and Zeppelin notebooks enabled with Spark integration, as well as R Studio IDE and OpenRefine. You can use notebooks to develop and run data science projects, as well visualize, document and present your analysis.\n\n\n\n\n\n\n\n\nFor more information, take the \nData Scientist Workbench Tutorial\n on Big Data University.\n\n\nRequesting your own Data Scientist Workbench\n\n\nGo to \nData Scientist Workbench\n and click the big blue button. After completing the registration, you will receive an e-mail with instructions.\n\n\nHello World\n\n\nTo get a feel of how the Data Scientist Notebooks work with Scala and Spark, follow the steps below to load a \"Hello World\" notebook along with its sample data.\n\n\n\n\n\n\n\nGo to \nData Scientist Workbench\n and click the \nMy Notebooks\n menu.\n\n\n\n\nUse the search bar to import the following file and notebook.\n    \n\n    \n\n    \n\n    \n\n\n\n\n\n\nNotebook:\n  \nhttps://share.knowledgeanyhow.org/#/api/v1/workbench/10.114.214.68/shares/sHbSUP0luy1xE2q/Scala%20and%20Spark%20in%2015%20minutes.ipynb\n\n\n\n\n\n\nData:\n\nhttps://share.knowledgeanyhow.org/#/api/v1/workbench/10.114.214.68/shares/t9LwxWg0EkWKMYX/2015.csv\n\n\n\n\n\n\n\n\n\n\nFollow the notebook!\n    \n\n    \n\n    \n\n    \n\n\n\n\n\n\nFor more details on sharing data and notebooks, check \nthis guide\n.", 
             "title": "Data Scientist Workbench"
         }, 
         {
             "location": "/environment/dswb/#overview", 
-            "text": "Data Scientist Workbench aims to be your one-stop shop for data science tools. At this time, it is a technology preview limited to IPython/Jupyter notebooks enabled with Spark integration. You can use notebooks to develop and run data science projects, as well visualize, document and present your analysis.     For more information, take the  Data Scientist Workbench Tutorial  on Big Data University.", 
+            "text": "Data Scientist Workbench aims to be your one-stop shop for\ndata science tools. At this time, it includes Jupyter notebooks and Zeppelin notebooks enabled with Spark integration, as well as R Studio IDE and OpenRefine. You can use notebooks to develop and run data science projects, as well visualize, document and present your analysis.     For more information, take the  Data Scientist Workbench Tutorial  on Big Data University.", 
             "title": "Overview"
         }, 
         {
@@ -67,8 +82,13 @@
         }, 
         {
             "location": "/environment/download-sample-data/", 
-            "text": "We are providing an example data set to get you started, but we encourage you to use use your own. You can download it in the link below.\n\n\nhttp://bit.ly/SFHackData\n\n\nNext, you'll probably want to extract the \nzip\n file and \nupload the \ncsv\n files to your workbench\n.", 
+            "text": "Sample Data - San Francisco\n\n\nWe are providing an example data set to get you started, but we encourage you to use use your own. You can download it in the link below.\n\n\nhttp://bit.ly/SFHackData\n\n\nNext, you'll probably want to extract the \nzip\n file and \nupload the \ncsv\n files to your workbench\n.", 
             "title": "Download Sample Data"
+        }, 
+        {
+            "location": "/environment/download-sample-data/#sample-data-san-francisco", 
+            "text": "We are providing an example data set to get you started, but we encourage you to use use your own. You can download it in the link below.  http://bit.ly/SFHackData  Next, you'll probably want to extract the  zip  file and  upload the  csv  files to your workbench .", 
+            "title": "Sample Data - San Francisco"
         }, 
         {
             "location": "/howtos/analyzing-weather-data/", 

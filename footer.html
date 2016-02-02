@@ -1,0 +1,63 @@
+<footer>
+  {% if next_page or previous_page %}
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      {% if next_page %}
+        <a href="{{ next_page.url|e }}" class="btn btn-neutral float-right" title="{{ next_page.title|striptags|e }}" accesskey="n">Next <span class="fa fa-arrow-circle-right"></span></a>
+      {% endif %}
+      {% if previous_page %}
+        <a href="{{ previous_page.url|e }}" class="btn btn-neutral" title="{{ previous_page.title|striptags|e }}" accesskey="p"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      {% endif %}
+    </div>
+  {% endif %}
+
+  <hr/>
+
+  <ul class="wy-breadcrumbs">
+    <li>
+      Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a
+      <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by
+      <a href="https://readthedocs.org">Read the Docs</a>
+    </li>
+    <li class="wy-breadcrumbs-aside">
+      <span class="st st_email_large"
+        st_url="http://bit.ly/DatapaloozaSF"
+        st_title="I'm going to #IBM #Datapalooza in San Francisco on November 10th. Join me!"
+        ></span>
+    </li>
+    <li class="wy-breadcrumbs-aside">
+      <span class="st st_pocket_large"
+        st_url="http://bit.ly/DatapaloozaSF"
+        st_title="I'm going to #IBM #Datapalooza in San Francisco on November 10th. Join me!"
+        ></span>
+    </li>
+    <li class="wy-breadcrumbs-aside">
+      <span class="st st_googleplus_large"
+        st_url="http://bit.ly/DatapaloozaSF"
+        st_title="I'm going to #IBM #Datapalooza in San Francisco on November 10th. Join me!"
+        ></span>
+    </li>
+    <li class="wy-breadcrumbs-aside">
+      <span class="st st_linkedin_large"
+        st_url="http://bit.ly/DatapaloozaSF"
+        st_title="I'm going to #IBM #Datapalooza in San Francisco on November 10th. Join me!"
+        ></span>
+    </li>
+    <li class="wy-breadcrumbs-aside">
+      <span class="st st_twitter_large"
+        st_url="http://bit.ly/DatapaloozaSF"
+        st_title="I'm going to #IBM #Datapalooza in San Francisco on November 10th. Join me!"
+      </span>
+    </li>
+    <li class="wy-breadcrumbs-aside">
+      <span class="st st_facebook_large"></span>
+    </li>
+  </ul>
+
+
+</footer>
+
+<!-- Begin: ShareThis scripts -->
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "d6f288ee-4b13-493e-a78c-2a340e0a3f2e", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+<!-- End: ShareThis scripts -->
