@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": ".steps-title { float: left; width: 25%; margin-bottom: 20px; }\n.steps-title > p { font-weight: bold; font-size: 150%; }\n.steps-content { float: left; width: 74%; margin-bottom: 20px; }\n.clear { clear: both; }\n.center { text-align: center; }\n.social { text-align: center; }\n\n\n\n\nWelcome to Datapalooza!\n\n\nDatapalooza is a 3 day immersive experience for the data science community.\nJoin a diverse community of data professionals, listen to some great music and create inspirational data products.\n\n\nLearn\n\n\nTake the \nSpark Fundamentals\n course and the\n\nData Scientist Workbench Tutorial\n\non Big Data University.\n\n\nRun Spark\n\n\nLogin into your \nData Scientist Workbench\n account to have a Spark runtime immediately available for you!\n\n\nDownload the Mobile App from an IOS or Android App Store\n\n\n\n\nAll attendees, speakers, mentors and staff emails have been entered into the system and have create accounts for you.\n\n\nSimply log-in with your emails address and the password datapalooza\n\n\nBuild your perfect agenda\n\n\nYou can select sessions you want to attended by day, by track, and by competency\n\n\nAdd your sessions to your calendar\n\n\nTake notes within the app!\n\n\nMake sure you check in to work towards datapalooza top Data Science, Data Engineering, and Data App Development badges\n\n\nStay connected with other attendees, speakers and mentors", 
+            "text": ".steps-title { float: left; width: 25%; margin-bottom: 20px; }\n.steps-title > p { font-weight: bold; font-size: 150%; }\n.steps-content { float: left; width: 74%; margin-bottom: 20px; }\n.clear { clear: both; }\n.center { text-align: center; }\n.social { text-align: center; }\n\n\n\n\nWelcome to Datapalooza!\n\n\nDatapalooza is a 3 day immersive experience for the data science community.\nJoin a diverse community of data professionals, listen to some great music\nand create inspirational data products.\n\n\nLearn\n\n\nTake the \nSpark Fundamentals\n course and the\n\nData Scientist Workbench Tutorial\n\non Big Data University.\n\n\nRun Spark\n\n\nLogin into your \nData Scientist Workbench\n\naccount to have a Spark runtime immediately available for you!", 
             "title": "First Steps"
         }, 
         {
             "location": "/#welcome-to-datapalooza", 
-            "text": "Datapalooza is a 3 day immersive experience for the data science community.\nJoin a diverse community of data professionals, listen to some great music and create inspirational data products.", 
+            "text": "Datapalooza is a 3 day immersive experience for the data science community.\nJoin a diverse community of data professionals, listen to some great music\nand create inspirational data products.", 
             "title": "Welcome to Datapalooza!"
         }, 
         {
@@ -17,13 +17,8 @@
         }, 
         {
             "location": "/#run-spark", 
-            "text": "Login into your  Data Scientist Workbench  account to have a Spark runtime immediately available for you!", 
+            "text": "Login into your  Data Scientist Workbench \naccount to have a Spark runtime immediately available for you!", 
             "title": "Run Spark"
-        }, 
-        {
-            "location": "/#download-the-mobile-app-from-an-ios-or-android-app-store", 
-            "text": "All attendees, speakers, mentors and staff emails have been entered into the system and have create accounts for you.  Simply log-in with your emails address and the password datapalooza  Build your perfect agenda  You can select sessions you want to attended by day, by track, and by competency  Add your sessions to your calendar  Take notes within the app!  Make sure you check in to work towards datapalooza top Data Science, Data Engineering, and Data App Development badges  Stay connected with other attendees, speakers and mentors", 
-            "title": "Download the Mobile App from an IOS or Android App Store"
         }, 
         {
             "location": "/introduction/slack/", 
