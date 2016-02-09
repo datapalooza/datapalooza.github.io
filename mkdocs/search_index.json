@@ -52,7 +52,7 @@
         }, 
         {
             "location": "/challenges/seattle-day-1/", 
-            "text": "Using \nData Scientist Workbench\n, determine the top 5\nwinning teams and their average scores during the 2015-6 \nregular\n season. You\nshould also determine the best and worst teams for turnovers.\n\n\nGet the exercise and the data by importing this notebook:\n\n\n\n\nhttps://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/L00Ijjdc2x0y24m/Challenge_1.ipynb\n\n\n\n\nCopy the url above and\n\nimport it\n\nin your workbench by pasting it in the appropriate box.", 
+            "text": "Using \nData Scientist Workbench\n, determine the top 5\nwinning teams and their average scores during the 2015-6 \nregular\n season. You\nshould also determine the best and worst teams for turnovers.\n\n\nGet the exercise and the data by importing the notebook below.\n\n\nhttps://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/L00Ijjdc2x0y24m/Challenge_1.ipynb\n\n\nCopy the url above and\n\nimport it\n\nin your workbench by pasting it in the appropriate box.", 
             "title": "Seattle Day 1"
         }, 
         {
