@@ -30,11 +30,19 @@
     
 
     
+        
     <url>
      <loc>http://datapalooza.github.io/challenges/daily-challenges/</loc>
      <lastmod>2016-02-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>http://datapalooza.github.io/challenges/seattle-day-1/</loc>
+     <lastmod>2016-02-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     

@@ -8,7 +8,7 @@
   
   
   
-  <title>Analyzing Weather Data - Datapalooza</title>
+  <title>Seattle Day 1 - Datapalooza</title>
   
 
   <link rel="shortcut icon" href="../../img/favicon.ico">
@@ -23,9 +23,9 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "Analyzing Weather Data";
-    var mkdocs_page_input_path = "howtos/analyzing-weather-data.md";
-    var mkdocs_page_url = "/howtos/analyzing-weather-data/";
+    var mkdocs_page_name = "Seattle Day 1";
+    var mkdocs_page_input_path = "challenges/seattle-day-1.md";
+    var mkdocs_page_url = "/challenges/seattle-day-1/";
   </script>
   
   <script src="../../js/jquery-2.1.1.min.js"></script>
@@ -107,14 +107,18 @@
         
             
     <li class="toctree-l1 ">
-        <a class="" href="../../challenges/daily-challenges/">Seattle</a>
+        <a class="" href="../daily-challenges/">Seattle</a>
         
     </li>
 
         
             
-    <li class="toctree-l1 ">
-        <a class="" href="../../challenges/seattle-day-1/">Seattle Day 1</a>
+    <li class="toctree-l1 current">
+        <a class="current" href="./">Seattle Day 1</a>
+        
+            <ul>
+            
+            </ul>
         
     </li>
 
@@ -150,40 +154,36 @@
 
         
             
-    <li class="toctree-l1 current">
-        <a class="current" href="./">Analyzing Weather Data</a>
-        
-            <ul>
-            
-            </ul>
+    <li class="toctree-l1 ">
+        <a class="" href="../../howtos/analyzing-weather-data/">Analyzing Weather Data</a>
         
     </li>
 
         
             
     <li class="toctree-l1 ">
-        <a class="" href="../sharing-data-notebooks/">Sharing Data and Notebooks</a>
+        <a class="" href="../../howtos/sharing-data-notebooks/">Sharing Data and Notebooks</a>
         
     </li>
 
         
             
     <li class="toctree-l1 ">
-        <a class="" href="../load-data-dsw/">Load Data into DSW</a>
+        <a class="" href="../../howtos/load-data-dsw/">Load Data into DSW</a>
         
     </li>
 
         
             
     <li class="toctree-l1 ">
-        <a class="" href="../install-libs/">Install Libraries</a>
+        <a class="" href="../../howtos/install-libs/">Install Libraries</a>
         
     </li>
 
         
             
     <li class="toctree-l1 ">
-        <a class="" href="../submit-code/">Submit your Code</a>
+        <a class="" href="../../howtos/submit-code/">Submit your Code</a>
         
     </li>
 
@@ -251,37 +251,19 @@
           <div role="main">
             <div class="section">
               
-                <ol>
-<li>Go to <a href="https://datascientistworkbench.com" target="_blank">Data Scientist Workbench</a> and click the <strong>My Notebooks</strong> menu.</li>
-<li>
-<p>Use the search bar to import the following notebooks.
-    <br>
-    <center>
-    <img src="/images/dswb-import.png" width="350"/>
-    </center></p>
+                <p>Using <a href="../../environment/dswb">Data Scientist Workbench</a>, determine the top 5
+winning teams and their average scores during the 2015-6 REGULAR season.</p>
+<p>You should also determine the best and worst teams for turnovers.</p>
+<p>Get the exercise and the data by importing this notebook:</p>
 <ul>
-<li>
-<p>Weather Data Preparation:
-  <span style= "word-wrap: break-word; font-family: monospace; font-size: 90%;"><strong>https://share.knowledgeanyhow.org/#/api/v1/workbench/10.114.214.68/shares/L9ftHk00qCVG8qL/Weather%20Data%20Preparation%20v2.ipynb</strong></span></p>
-</li>
-<li>
-<p>Weather Data Analysis and Visualization:
-  <span style= "word-wrap: break-word; font-family: monospace; font-size: 90%;"><strong>https://share.knowledgeanyhow.org/#/api/v1/workbench/10.114.214.68/shares/9tDhX5RIIQLIKcB/Weather%20Data%20Analysis%20Visualization%20v2.ipynb</strong></span></p>
-</li>
+<li><code>https://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/L00Ijjdc2x0y24m/Challenge_1.ipynb</code></li>
 </ul>
-</li>
-<li>
-<p>You can get the <strong>API key</strong> <a href="https://sites.google.com/a/weather.com/hack-the-weather/" target="_blank">here</a>.</p>
-</li>
-<li>
-<p>Follow the notebooks!
-    <br>
-    <center>
-    <img src="/images/dswb-howto-weather.png" width="600"/>
-    </center></p>
-</li>
-</ol>
-<p>For more details on sharing data and notebooks, check <a href="../../howtos/sharing-data-notebooks/">this guide</a>.</p>
+<p>Copy the slug above and
+<a href="../../howtos/sharing-data-notebooks/#importing-data-and-notebooks">import it</a>
+in your Data Scientist Workbench by pasting it in the appropriate box.</p>
+<p><center>
+<img src="/images/dswb-import.png" width="350"/>
+</center></p>
               
             </div>
           </div>
@@ -289,10 +271,10 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../sharing-data-notebooks/" class="btn btn-neutral float-right" title="Sharing Data and Notebooks" accesskey="n">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="../../environment/dswb/" class="btn btn-neutral float-right" title="Data Scientist Workbench" accesskey="n">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="../../environment/download-sample-data/" class="btn btn-neutral" title="Download Sample Data" accesskey="p"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="../daily-challenges/" class="btn btn-neutral" title="Seattle" accesskey="p"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
@@ -362,10 +344,10 @@
           <a href="https://github.com/datapalooza" class="icon icon-github" style="float: left; color: #fcfcfc"> GitHub</a>
       
       
-        <span><a href="../../environment/download-sample-data/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+        <span><a href="../daily-challenges/" style="color: #fcfcfc;">&laquo; Previous</a></span>
       
       
-        <span style="margin-left: 15px"><a href="../sharing-data-notebooks/" style="color: #fcfcfc">Next &raquo;</a></span>
+        <span style="margin-left: 15px"><a href="../../environment/dswb/" style="color: #fcfcfc">Next &raquo;</a></span>
       
     </span>
 </div>
