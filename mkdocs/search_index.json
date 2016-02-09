@@ -52,8 +52,18 @@
         }, 
         {
             "location": "/challenges/seattle-day-1/", 
-            "text": "Using \nData Scientist Workbench\n, determine the top 5\nwinning teams and their average scores during the 2015-6 \nregular\n season. You\nshould also determine the best and worst teams for turnovers.\n\n\nGet the exercise and the data by importing the notebook below.\n\n\nhttps://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/L00Ijjdc2x0y24m/Challenge_1.ipynb\n\n\nCopy the url above and\n\nimport it\n\nin your workbench by pasting it in the appropriate box.", 
-            "title": "Seattle Day 1"
+            "text": "Using \nData Scientist Workbench\n, determine the top 5\nwinning teams and their average scores during the 2015-6 \nregular\n season. You\nshould also determine the best and worst teams for turnovers.\n\n\nJupyter\n\n\nGet the exercise and the data by importing the Jupyter notebook below.\n\n\nhttps://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/L00Ijjdc2x0y24m/Challenge_1.ipynb\n\n\nCopy the url above and\n\nimport it\n\nin your workbench by pasting it in the appropriate box.\n\n\n\n\n\n\n\n\nZeppelin\n\n\nIf you prefer, you can use Zeppelin instead of Jupyter.\n\n\n\n\nZeppelin notebook for Day 1 Challenge\n\n\n\n\nTo import into Zeppelin, click on \nImport Note\n on the Zeppelin front page.", 
+            "title": "Seattle Day 1 Challenge"
+        }, 
+        {
+            "location": "/challenges/seattle-day-1/#jupyter", 
+            "text": "Get the exercise and the data by importing the Jupyter notebook below.  https://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/L00Ijjdc2x0y24m/Challenge_1.ipynb  Copy the url above and import it \nin your workbench by pasting it in the appropriate box.", 
+            "title": "Jupyter"
+        }, 
+        {
+            "location": "/challenges/seattle-day-1/#zeppelin", 
+            "text": "If you prefer, you can use Zeppelin instead of Jupyter.   Zeppelin notebook for Day 1 Challenge   To import into Zeppelin, click on  Import Note  on the Zeppelin front page.", 
+            "title": "Zeppelin"
         }, 
         {
             "location": "/environment/dswb/", 
