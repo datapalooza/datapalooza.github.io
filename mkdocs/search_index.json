@@ -67,12 +67,12 @@
         }, 
         {
             "location": "/challenges/seattle-day-2/", 
-            "text": "We have a few tweets gathered the morning after the last Republican debate.\nDetermine the count of positive and negative tweets that contain the keyword\n\u201cTrump\u201d.\n\n\n\n\nHint:\n To get the solution we used the\n\nNatural Language Toolkit\n\n\n\n\nJupyter\n\n\nGet started with challenge using this Jupyter notebook:\n\n\nhttps://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/Zdc0xlFQbSbvKQm/Challenge_2.ipynb\n\n\nCopy the url above and\n\nimport it\n\nin your workbench by pasting it in the appropriate box.", 
+            "text": "We have a few tweets gathered the morning after the last Republican debate.\nDetermine the count of positive and negative tweets that contain the keyword\n\u201cTrump\u201d.\n\n\n\n\nHint:\n To get the solution we used the\n\nNatural Language Toolkit\n\n\n\n\nJupyter\n\n\nGet started with challenge in \nData Scientist Workbench\n\nusing this Jupyter notebook:\n\n\nhttps://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/Zdc0xlFQbSbvKQm/Challenge_2.ipynb\n\n\nCopy the url above and\n\nimport it\n\nin your workbench by pasting it in the appropriate box.", 
             "title": "Seattle Day 2 Challenge"
         }, 
         {
             "location": "/challenges/seattle-day-2/#jupyter", 
-            "text": "Get started with challenge using this Jupyter notebook:  https://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/Zdc0xlFQbSbvKQm/Challenge_2.ipynb  Copy the url above and import it \nin your workbench by pasting it in the appropriate box.", 
+            "text": "Get started with challenge in  Data Scientist Workbench \nusing this Jupyter notebook:  https://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/Zdc0xlFQbSbvKQm/Challenge_2.ipynb  Copy the url above and import it \nin your workbench by pasting it in the appropriate box.", 
             "title": "Jupyter"
         }, 
         {
