@@ -32,18 +32,18 @@
         }, 
         {
             "location": "/introduction/sessions/", 
-            "text": "Session Materials - Seattle\n\n\nComing soon!\n\n\nSession Materials - San Francisco\n\n\n\n\n\n\n\n\nSession\n\n\nMaterials\n\n\n\n\n\n\n\n\n\n\nCaltrain Rider: A Complete Data Product\n\n\nhttps://github.com/silicon-valley-data-science/\n\n\n\n\n\n\nWhos in the News: Build a Quality web app with minimal code\n\n\nhttps://github.com/AlchemyAPI/whos-in-the-news\n\n\n\n\n\n\nBuilding a Word2Vec Model with Twitter Data\n\n\nhttps://github.com/castanan/w2v\n\n\n\n\n\n\nSpark Streaming application with Twitter and Watson\n\n\nhttps://github.com/ibm-cds-labs/spark.samples/tree/master/streaming-twitter\n\n\n\n\n\n\nMurv Part 1: Introduction to Muvr and lab around wearable and mobile\n\n\nhttps://github.com/muvr\n\n\n\n\n\n\nCustomer Relationship Prediction with Machine Learning Ensembles\n\n\nhttps://github.com/Jay-Oh-eN/data-scientists-guide-apache-spark\n\n\n\n\n\n\nMurv Part 2: Finish Wearable and mobile lab and move into a lab on training a model\n\n\nhttps://github.com/muvr\n\n\n\n\n\n\nMurv Part 3: Final lab on paralleling computation and conclusion\n\n\nhttps://github.com/muvr\n\n\n\n\n\n\nNLP Enriched Product Review\n\n\nhttps://github.com/AlchemyAPI/reviewRecipe\n\n\n\n\n\n\nSearch by Selfie: a Spark Facial Recognition Algorithm\n\n\nhttps://github.com/hackspark/SearchBySelfie/blob/master/photoSearchApp.ipynb", 
-            "title": "Sessions"
+            "text": "Seattle\n\n\n\n\n\n\n\n\nSession\n\n\nMaterials\n\n\n\n\n\n\n\n\n\n\nBuilding Scalable Data Pipelines\n\n\nSlides\n\n\n\n\n\n\nEssential Economics for Data Scientists\n\n\nSlides\n\n\n\n\n\n\nIntro to Anaconda Cluster for Scientific Workflows\n\n\nSlides\n\n\n\n\n\n\nIntro to IBM Cloud Data Services and Apache Spark\n\n\nSlides\n\n\n\n\n\n\nSemantic Analysis of Natural Language with Python\n\n\nCode\n\n\n\n\n\n\nSpark and Scala: Coevolving Eco Systems for Data\n\n\nSlides\n\n\n\n\n\n\nTune Up Your Data Science Process\n\n\nSlides\n\n\n\n\n\n\nWord2Vec with Twitter Data\n\n\nSlides\n\n\n\n\n\n\n\n\nSan Francisco\n\n\n\n\n\n\n\n\nSession\n\n\nMaterials\n\n\n\n\n\n\n\n\n\n\nCaltrain Rider: A Complete Data Product\n\n\nhttps://github.com/silicon-valley-data-science/\n\n\n\n\n\n\nWhos in the News: Build a Quality web app with minimal code\n\n\nhttps://github.com/AlchemyAPI/whos-in-the-news\n\n\n\n\n\n\nBuilding a Word2Vec Model with Twitter Data\n\n\nhttps://github.com/castanan/w2v\n\n\n\n\n\n\nSpark Streaming application with Twitter and Watson\n\n\nhttps://github.com/ibm-cds-labs/spark.samples/tree/master/streaming-twitter\n\n\n\n\n\n\nMurv Part 1: Introduction to Muvr and lab around wearable and mobile\n\n\nhttps://github.com/muvr\n\n\n\n\n\n\nCustomer Relationship Prediction with Machine Learning Ensembles\n\n\nhttps://github.com/Jay-Oh-eN/data-scientists-guide-apache-spark\n\n\n\n\n\n\nMurv Part 2: Finish Wearable and mobile lab and move into a lab on training a model\n\n\nhttps://github.com/muvr\n\n\n\n\n\n\nMurv Part 3: Final lab on paralleling computation and conclusion\n\n\nhttps://github.com/muvr\n\n\n\n\n\n\nNLP Enriched Product Review\n\n\nhttps://github.com/AlchemyAPI/reviewRecipe\n\n\n\n\n\n\nSearch by Selfie: a Spark Facial Recognition Algorithm\n\n\nhttps://github.com/hackspark/SearchBySelfie/blob/master/photoSearchApp.ipynb", 
+            "title": "Session Materials"
         }, 
         {
-            "location": "/introduction/sessions/#session-materials-seattle", 
-            "text": "Coming soon!", 
-            "title": "Session Materials - Seattle"
+            "location": "/introduction/sessions/#seattle", 
+            "text": "Session  Materials      Building Scalable Data Pipelines  Slides    Essential Economics for Data Scientists  Slides    Intro to Anaconda Cluster for Scientific Workflows  Slides    Intro to IBM Cloud Data Services and Apache Spark  Slides    Semantic Analysis of Natural Language with Python  Code    Spark and Scala: Coevolving Eco Systems for Data  Slides    Tune Up Your Data Science Process  Slides    Word2Vec with Twitter Data  Slides", 
+            "title": "Seattle"
         }, 
         {
-            "location": "/introduction/sessions/#session-materials-san-francisco", 
+            "location": "/introduction/sessions/#san-francisco", 
             "text": "Session  Materials      Caltrain Rider: A Complete Data Product  https://github.com/silicon-valley-data-science/    Whos in the News: Build a Quality web app with minimal code  https://github.com/AlchemyAPI/whos-in-the-news    Building a Word2Vec Model with Twitter Data  https://github.com/castanan/w2v    Spark Streaming application with Twitter and Watson  https://github.com/ibm-cds-labs/spark.samples/tree/master/streaming-twitter    Murv Part 1: Introduction to Muvr and lab around wearable and mobile  https://github.com/muvr    Customer Relationship Prediction with Machine Learning Ensembles  https://github.com/Jay-Oh-eN/data-scientists-guide-apache-spark    Murv Part 2: Finish Wearable and mobile lab and move into a lab on training a model  https://github.com/muvr    Murv Part 3: Final lab on paralleling computation and conclusion  https://github.com/muvr    NLP Enriched Product Review  https://github.com/AlchemyAPI/reviewRecipe    Search by Selfie: a Spark Facial Recognition Algorithm  https://github.com/hackspark/SearchBySelfie/blob/master/photoSearchApp.ipynb", 
-            "title": "Session Materials - San Francisco"
+            "title": "San Francisco"
         }, 
         {
             "location": "/challenges/daily-challenges/", 
@@ -52,7 +52,7 @@
         }, 
         {
             "location": "/challenges/seattle-day-1/", 
-            "text": "Using \nData Scientist Workbench\n, determine the top 5\nwinning teams and their average scores during the 2015-6 \nregular\n season. You\nshould also determine the best and worst teams for turnovers.\n\n\nJupyter\n\n\nGet the exercise and the data by importing the Jupyter notebook below.\n\n\nhttps://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/L00Ijjdc2x0y24m/Challenge_1.ipynb\n\n\nCopy the url above and\n\nimport it\n\nin your workbench by pasting it in the appropriate box.\n\n\n\n\n\n\n\n\nZeppelin\n\n\nIf you prefer, you can use Zeppelin instead of Jupyter.\n\n\n\n\nZeppelin notebook for Day 1 Challenge\n\n\n\n\nTo import into Zeppelin, click on \nImport Note\n on the Zeppelin front page.", 
+            "text": "Using \nData Scientist Workbench\n, determine the top 5\nwinning teams and their average scores during the 2015-6 \nregular\n season. You\nshould also determine the best and worst teams for turnovers.\n\n\nJupyter\n\n\nGet the exercise and the data by importing the Jupyter notebook below.\n\n\nhttps://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/L00Ijjdc2x0y24m/Challenge_1.ipynb\n\n\nCopy the url above and\n\nimport it\n\nin your workbench by pasting it in the appropriate box.\n\n\n\n\n\n\n\n\nZeppelin\n\n\nIf you prefer, you can use Zeppelin instead of Jupyter.\n\n\n\n\nZeppelin notebook for Day 1 Challenge\n\n\n\n\nTo import into Zeppelin, click on \nImport Note\n on the Zeppelin front page.\n\n\nSolution\n\n\nOfficial solution\n for\nthe Day 1 Challenge.", 
             "title": "Seattle Day 1 Challenge"
         }, 
         {
@@ -64,6 +64,11 @@
             "location": "/challenges/seattle-day-1/#zeppelin", 
             "text": "If you prefer, you can use Zeppelin instead of Jupyter.   Zeppelin notebook for Day 1 Challenge   To import into Zeppelin, click on  Import Note  on the Zeppelin front page.", 
             "title": "Zeppelin"
+        }, 
+        {
+            "location": "/challenges/seattle-day-1/#solution", 
+            "text": "Official solution  for\nthe Day 1 Challenge.", 
+            "title": "Solution"
         }, 
         {
             "location": "/challenges/seattle-day-2/", 
