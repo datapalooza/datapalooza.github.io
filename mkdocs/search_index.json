@@ -47,7 +47,7 @@
         }, 
         {
             "location": "/challenges/seattle-day-1/", 
-            "text": "Using \nData Scientist Workbench\n, determine the top 5\nwinning teams and their average scores during the 2015-6 \nregular\n season. You\nshould also determine the best and worst teams for turnovers.\n\n\nJupyter\n\n\nGet the exercise and the data by importing the Jupyter notebook below.\n\n\nhttps://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/L00Ijjdc2x0y24m/Challenge_1.ipynb\n\n\nCopy the url above and\n\nimport it\n\nin your workbench by pasting it in the appropriate box.\n\n\n\n\n\n\n\n\nZeppelin\n\n\nIf you prefer, you can use Zeppelin instead of Jupyter.\n\n\n\n\nZeppelin notebook for Day 1 Challenge\n\n\n\n\nTo import into Zeppelin, click on \nImport Note\n on the Zeppelin front page.\n\n\nSolution\n\n\nOfficial solution\n for\nthe Day 1 Challenge.", 
+            "text": "Using \nData Scientist Workbench\n, determine the top 5\nwinning teams and their average scores during the 2015-6 \nregular\n season. You\nshould also determine the best and worst teams for turnovers.\n\n\nJupyter\n\n\nGet the exercise and the data by importing the Jupyter notebook below.\n\n\nhttps://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/L00Ijjdc2x0y24m/Challenge_1.ipynb\n\n\nCopy the url above and\n\nimport it\n\nin your workbench by pasting it in the appropriate box.\n\n\n\n\n\n\n\n\nZeppelin\n\n\nIf you prefer, you can use Zeppelin instead of Jupyter.\n\n\n\n\nZeppelin notebook for Day 1 Challenge\n\n\n\n\nTo import into Zeppelin, click on \nImport Note\n on the Zeppelin front page.\n\n\nSolution\n\n\nOfficial solution\n for\nthe Day 1 Challenge.\n\n\nhttps://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/eVtKpk0GwENtVuJ/SOLUTION_Challenge_1.ipynb\n\n\nWinning Entry\n\n\nHere is \nJayson Stemmler\n's\nwinning entry:\n\n\nhttps://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/SYvuu7cwJJgoJ8q/Challenge_1_SEA_JaysonStemmler.ipynb", 
             "title": "Seattle Day 1 Challenge"
         }, 
         {
@@ -62,8 +62,13 @@
         }, 
         {
             "location": "/challenges/seattle-day-1/#solution", 
-            "text": "Official solution  for\nthe Day 1 Challenge.", 
+            "text": "Official solution  for\nthe Day 1 Challenge.  https://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/eVtKpk0GwENtVuJ/SOLUTION_Challenge_1.ipynb", 
             "title": "Solution"
+        }, 
+        {
+            "location": "/challenges/seattle-day-1/#winning-entry", 
+            "text": "Here is  Jayson Stemmler 's\nwinning entry:  https://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/SYvuu7cwJJgoJ8q/Challenge_1_SEA_JaysonStemmler.ipynb", 
+            "title": "Winning Entry"
         }, 
         {
             "location": "/challenges/seattle-day-2/", 
