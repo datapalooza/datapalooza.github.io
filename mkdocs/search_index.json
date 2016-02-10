@@ -66,6 +66,16 @@
             "title": "Zeppelin"
         }, 
         {
+            "location": "/challenges/seattle-day-2/", 
+            "text": "We have a few tweets gathered the morning after the last Republican debate.\nDetermine the count of positive and negative tweets that contain the keyword\n\u201cTrump\u201d.\n\n\n\n\nHint:\n To get the solution we used the\n\nNatural Language Toolkit\n\n\n\n\nJupyter\n\n\nGet started with challenge using this Jupyter notebook:\n\n\nhttps://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/Zdc0xlFQbSbvKQm/Challenge_2.ipynb\n\n\nCopy the url above and\n\nimport it\n\nin your workbench by pasting it in the appropriate box.", 
+            "title": "Seattle Day 2 Challenge"
+        }, 
+        {
+            "location": "/challenges/seattle-day-2/#jupyter", 
+            "text": "Get started with challenge using this Jupyter notebook:  https://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/Zdc0xlFQbSbvKQm/Challenge_2.ipynb  Copy the url above and import it \nin your workbench by pasting it in the appropriate box.", 
+            "title": "Jupyter"
+        }, 
+        {
             "location": "/environment/dswb/", 
             "text": "Overview\n\n\nData Scientist Workbench aims to be your one-stop shop for\ndata science tools. At this time, it includes Jupyter notebooks and Zeppelin notebooks enabled with Spark integration, as well as R Studio IDE and OpenRefine. You can use notebooks to develop and run data science projects, as well visualize, document and present your analysis.\n\n\n\n\n\n\n\n\nFor more information, take the \nData Scientist Workbench Tutorial\n on Big Data University.\n\n\nRequesting your own Data Scientist Workbench\n\n\nGo to \nData Scientist Workbench\n and click the big blue button. After completing the registration, you will receive an e-mail with instructions.\n\n\nHello World\n\n\nTo get a feel of how the Data Scientist Notebooks work with Scala and Spark, follow the steps below to load a \"Hello World\" notebook along with its sample data.\n\n\n\n\n\n\n\nGo to \nData Scientist Workbench\n and click the \nMy Notebooks\n menu.\n\n\n\n\nUse the search bar to import the following file and notebook.\n    \n\n    \n\n    \n\n    \n\n\n\n\n\n\nNotebook:\n  \nhttps://share.knowledgeanyhow.org/#/api/v1/workbench/10.114.214.68/shares/sHbSUP0luy1xE2q/Scala%20and%20Spark%20in%2015%20minutes.ipynb\n\n\n\n\n\n\nData:\n\nhttps://share.knowledgeanyhow.org/#/api/v1/workbench/10.114.214.68/shares/t9LwxWg0EkWKMYX/2015.csv\n\n\n\n\n\n\n\n\n\n\nFollow the notebook!\n    \n\n    \n\n    \n\n    \n\n\n\n\n\n\nFor more details on sharing data and notebooks, check \nthis guide\n.", 
             "title": "Data Scientist Workbench"
