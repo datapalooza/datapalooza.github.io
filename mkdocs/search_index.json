@@ -82,7 +82,7 @@
         }, 
         {
             "location": "/challenges/seattle-day-3/", 
-            "text": "Using machine learning and feature engineering techniques, identify the\ngreatest set of factors (Age, Sex, demographic, status, cabin location, etc.)\nthat had significant impact on survival probability for passengers of the\nTitanic.\n\n\nShow how you came to your conclusion.\n\n\nJupyter\n\n\nGet the exercise and the data by importing the Jupyter notebook below.\n\n\nhttps://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/Lq860KgLkVZ0rKB/Challenge_3.ipynb\n\n\nCopy the url above and\n\nimport it\n\nin your workbench by pasting it in the appropriate box.", 
+            "text": "Using data science techniques, identify the\ngreatest set of factors (age, sex, demographic, status, cabin location, etc.)\nthat had significant impact on survival probability for passengers of the\nTitanic.\n\n\nShow how you came to your conclusion.\n\n\nJupyter\n\n\nGet the exercise and the data by importing the Jupyter notebook below.\n\n\nhttps://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/Lq860KgLkVZ0rKB/Challenge_3.ipynb\n\n\nCopy the url above and\n\nimport it\n\nin your workbench by pasting it in the appropriate box.", 
             "title": "Seattle Day 3 Challenge"
         }, 
         {
