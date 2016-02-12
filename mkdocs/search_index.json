@@ -72,7 +72,7 @@
         }, 
         {
             "location": "/challenges/seattle-day-2/", 
-            "text": "We have a few tweets gathered the morning after the last Republican debate.\nDetermine the count of positive and negative tweets that contain the keyword\n\u201cTrump\u201d.\n\n\n\n\nHint:\n To get the solution we used the\n\nNatural Language Toolkit\n\n\n\n\nJupyter\n\n\nGet started with challenge in \nData Scientist Workbench\n\nusing this Jupyter notebook:\n\n\nhttps://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/Zdc0xlFQbSbvKQm/Challenge_2.ipynb\n\n\nCopy the url above and\n\nimport it\n\nin your workbench by pasting it in the appropriate box.", 
+            "text": "We have a few tweets gathered the morning after the last Republican debate.\nDetermine the count of positive and negative tweets that contain the keyword\n\u201cTrump\u201d.\n\n\n\n\nHint:\n To get the solution we used the\n\nNatural Language Toolkit\n\n\n\n\nJupyter\n\n\nGet started with challenge in \nData Scientist Workbench\n\nusing this Jupyter notebook:\n\n\nhttps://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/Zdc0xlFQbSbvKQm/Challenge_2.ipynb\n\n\nCopy the url above and\n\nimport it\n\nin your workbench by pasting it in the appropriate box.\n\n\n\n\n\n\n\n\nSolution\n\n\nOfficial solution for the Day 2 Challenge:\n\n\nhttps://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/S24DfpW9Z8zXzZC/SOLUTION_Challenge_2.ipynb\n\n\nWinning Entry\n\n\nHere is the winning entry:\n\n\nhttps://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/6hPnK3p8zY6zlMs/alexsher.ipynb", 
             "title": "Seattle Day 2 Challenge"
         }, 
         {
@@ -81,13 +81,23 @@
             "title": "Jupyter"
         }, 
         {
+            "location": "/challenges/seattle-day-2/#solution", 
+            "text": "Official solution for the Day 2 Challenge:  https://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/S24DfpW9Z8zXzZC/SOLUTION_Challenge_2.ipynb", 
+            "title": "Solution"
+        }, 
+        {
+            "location": "/challenges/seattle-day-2/#winning-entry", 
+            "text": "Here is the winning entry:  https://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/6hPnK3p8zY6zlMs/alexsher.ipynb", 
+            "title": "Winning Entry"
+        }, 
+        {
             "location": "/challenges/seattle-day-3/", 
-            "text": "Using data science techniques, identify the\ngreatest set of factors (age, sex, demographic, status, cabin location, etc.)\nthat had significant impact on survival probability for passengers of the\nTitanic.\n\n\nShow how you came to your conclusion.\n\n\nJupyter\n\n\nGet the exercise and the data by importing the Jupyter notebook below.\n\n\nhttps://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/Lq860KgLkVZ0rKB/Challenge_3.ipynb\n\n\nCopy the url above and\n\nimport it\n\nin your workbench by pasting it in the appropriate box.", 
+            "text": "Using data science techniques, identify the\ngreatest set of factors (age, sex, demographic, status, cabin location, etc.)\nthat had significant impact on survival probability for passengers of the\nTitanic.\n\n\nShow how you came to your conclusion.\n\n\nJupyter\n\n\nGet started with challenge in \nData Scientist Workbench\n\nusing this Jupyter notebook:\n\n\nhttps://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/Lq860KgLkVZ0rKB/Challenge_3.ipynb\n\n\nCopy the url above and\n\nimport it\n\nin your workbench by pasting it in the appropriate box.", 
             "title": "Seattle Day 3 Challenge"
         }, 
         {
             "location": "/challenges/seattle-day-3/#jupyter", 
-            "text": "Get the exercise and the data by importing the Jupyter notebook below.  https://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/Lq860KgLkVZ0rKB/Challenge_3.ipynb  Copy the url above and import it \nin your workbench by pasting it in the appropriate box.", 
+            "text": "Get started with challenge in  Data Scientist Workbench \nusing this Jupyter notebook:  https://share.datascientistworkbench.com/#/api/v1/workbench/10.114.214.147/shares/Lq860KgLkVZ0rKB/Challenge_3.ipynb  Copy the url above and import it \nin your workbench by pasting it in the appropriate box.", 
             "title": "Jupyter"
         }, 
         {
