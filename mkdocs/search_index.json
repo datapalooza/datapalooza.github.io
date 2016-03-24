@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": ".steps-title { float: left; width: 25%; margin-bottom: 20px; }\n.steps-title > p { font-weight: bold; font-size: 150%; }\n.steps-content { float: left; width: 74%; margin-bottom: 20px; }\n.clear { clear: both; }\n.center { text-align: center; }\n.social { text-align: center; }\n\n\n\n\nWelcome to Datapalooza!\n\n\nDatapalooza is a 3 day immersive experience for the data science community.\nJoin a diverse community of data professionals, listen to some great music\nand create inspirational data products.\n\n\nLearn\n\n\nTake the \nSpark Fundamentals\n course and the\n\nData Scientist Workbench Tutorial\n\non Big Data University.\n\n\nRun Spark\n\n\nLogin into your \nData Scientist Workbench\n\naccount to have a Spark runtime immediately available for you!", 
+            "text": ".steps-title { float: left; width: 25%; margin-bottom: 20px; }\n.steps-title > p { font-weight: bold; font-size: 150%; }\n.steps-content { float: left; width: 74%; margin-bottom: 20px; }\n.clear { clear: both; }\n.center { text-align: center; }\n.social { text-align: center; }\n\n\n\n\nWelcome to Datapalooza!\n\n\nOut next Datapalooza is in Austin, TX on April 28th!\n\n\nRegister for free now!\n\n\nDatapalooza\n is an immersive experience for the data science community to learn new skills, tools and technologies.\n\n\nLearn\n\n\nTake the \nSpark Fundamentals\n course and the\n\nData Scientist Workbench Tutorial\n\non Big Data University.\n\n\nRun Spark\n\n\nLogin into your \nData Scientist Workbench\n\naccount to have a Spark runtime immediately available for you!", 
             "title": "First Steps"
         }, 
         {
             "location": "/#welcome-to-datapalooza", 
-            "text": "Datapalooza is a 3 day immersive experience for the data science community.\nJoin a diverse community of data professionals, listen to some great music\nand create inspirational data products.", 
+            "text": "Out next Datapalooza is in Austin, TX on April 28th!  Register for free now!  Datapalooza  is an immersive experience for the data science community to learn new skills, tools and technologies.", 
             "title": "Welcome to Datapalooza!"
         }, 
         {
