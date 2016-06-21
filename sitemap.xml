@@ -5,19 +5,19 @@
         
     <url>
      <loc>http://datapalooza.github.io/</loc>
-     <lastmod>2016-06-06</lastmod>
+     <lastmod>2016-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://datapalooza.github.io/introduction/slack/</loc>
-     <lastmod>2016-06-06</lastmod>
+     <lastmod>2016-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://datapalooza.github.io/introduction/resources/</loc>
-     <lastmod>2016-06-06</lastmod>
+     <lastmod>2016-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -26,7 +26,7 @@
     
     <url>
      <loc>http://datapalooza.github.io/introduction/sessions/</loc>
-     <lastmod>2016-06-06</lastmod>
+     <lastmod>2016-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -34,26 +34,20 @@
     
         
     <url>
-     <loc>http://datapalooza.github.io/challenges/denver/</loc>
-     <lastmod>2016-06-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
      <loc>http://datapalooza.github.io/challenges/seattle-day-1/</loc>
-     <lastmod>2016-06-06</lastmod>
+     <lastmod>2016-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://datapalooza.github.io/challenges/seattle-day-2/</loc>
-     <lastmod>2016-06-06</lastmod>
+     <lastmod>2016-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://datapalooza.github.io/challenges/seattle-day-3/</loc>
-     <lastmod>2016-06-06</lastmod>
+     <lastmod>2016-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -63,13 +57,13 @@
         
     <url>
      <loc>http://datapalooza.github.io/environment/dswb/</loc>
-     <lastmod>2016-06-06</lastmod>
+     <lastmod>2016-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://datapalooza.github.io/environment/download-sample-data/</loc>
-     <lastmod>2016-06-06</lastmod>
+     <lastmod>2016-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -79,31 +73,31 @@
         
     <url>
      <loc>http://datapalooza.github.io/howtos/analyzing-weather-data/</loc>
-     <lastmod>2016-06-06</lastmod>
+     <lastmod>2016-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://datapalooza.github.io/howtos/sharing-data-notebooks/</loc>
-     <lastmod>2016-06-06</lastmod>
+     <lastmod>2016-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://datapalooza.github.io/howtos/load-data-dsw/</loc>
-     <lastmod>2016-06-06</lastmod>
+     <lastmod>2016-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://datapalooza.github.io/howtos/install-libs/</loc>
-     <lastmod>2016-06-06</lastmod>
+     <lastmod>2016-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://datapalooza.github.io/howtos/submit-code/</loc>
-     <lastmod>2016-06-06</lastmod>
+     <lastmod>2016-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
